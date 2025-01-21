@@ -1,4 +1,4 @@
-# thesis-25
+# Thesis-25
 
 ## Literature Review
 Humanitarian Aid:
