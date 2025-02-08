@@ -3,7 +3,9 @@
 ## Shaping the political lanscape through social media. Case study: Germany's Far-Right Movement on Social Media. 
 ### Abstract
 As of October 2024, 94% of internet users, representing 64% of the global population. Social media platforms have become dominant news sources, shaping users' perception of reality, political attitudes, and even real-world behaviours. The interactions are not organic. They are systematically designed algorithms that control visibility, engagement, and discourse, creating echo chambers that reinforce confirmation bias and facilitate the viral spread of misinformation. The ability of social media to amplify political movements, shape narratives, and influence elections is especially critical in Germany, where the far-right Alternative für Deutschland (AfD) has strategically used digital platforms to gain influence.  As of January 2024, Germany had approximately 77.7 million internet users, accounting for 93.3% of the total population. Among these, 67.8 million were active on social media platforms, representing 81.4% of the population. 100% of German adults under 40 are online, 79% of them use social media, which makes social media a good place to start a political campaign. This research investigates how the AfD leverages social media networks and algorithmic amplification to spread far-right ideologies.  Using data-driven research and data visualization tools, this project aims to reveal the digital infrastructure of far-right mobilization in Germany, demonstrating how social media’s algorithmic logic is not just a passive tool but an active agent of political transformation.
+
 ---
+
 ### Outline
 1. A brief history of social media
 2. The intersection between social media and real world
