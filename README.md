@@ -29,3 +29,25 @@ As of October 2024, 94% of internet users, representing 64% of the global popula
 10. Data analysis and findings
 11. Conclusion and recomendation 
 ---
+
+### Intorduction 
+Media—whether written, printed, or voice-recorded—has long been a tool for spreading new ideas, perspectives, and ideologies. During World War II, broadcasting played a central role. In the U.S., for example, 90% of households owned radios, which allowed the government to use direct communication tactics, such as the "you technique," to connect with the public and make them feel involved in the war effort. Meanwhile, Nazi Germany broadcasted propaganda for up to 11 hours daily, targeting groups like capitalists, Jews, and certain media outlets and politicians.^1
+
+Media's role in driving change has not been limited to government actions throughout history. In 2001, approximately seven million text messages with the message “Go 2 EDSA. Wear Black” were sent via cell phones, which played a crucial role in the ousting of Philippine President Joseph Estrada.^2 This movement showed how mobile technology could mobilize the public and bring about political change. This event marked the first large-scale civilian movement organized via social media, highlighting its potential as a political tool that reshapes political landscapes and holds power to account. Social media enables faster connections, news exchange, and organization. Inspired by the Philippine movement, similar frameworks were adopted worldwide. Ten years later, the rapid development and accessibility of communication tools led to the 2011 Egyptian protests, where Facebook and Twitter played pivotal roles in sparking a revolution that continues to impact Egypt's political landscape.^3
+
+Germany has seen a rise in the popularity of the far-right party in recent years, with its ideologies targeting migrants. Recently, the long-standing "firewall" policy against far-right groups since World War II was weakened to appeal to voters opposed to immigration. This shift has led to increased tensions, with political parties blaming each other for the growing influence of the Alternative for Germany (AfD).^4
+
+In this paper, we explore the following questions: How is the right-wing party, Alternative for Germany (AfD), gaining popularity through social media? What strategies are they using? What ideologies are they promoting? Who is their target audience? Which social media platforms are they utilizing? What role does artificial intelligence play in their campaigns?
+
+
+
+---
+## References
+
+1. Wargaming.net, "The Power of Radio: Propaganda in World War II," *Wargaming.net*, last modified February 9, 2025, [https://wargaming.com/en/news/radio_propaganda/](https://wargaming.com/en/news/radio_propaganda/).
+
+2. Clay Shirky, "The Political Power of Social Media," *Foreign Affairs* 9, no. 1 (2011): 1, [https://www.foreignaffairs.com/political-power-social-media](https://www.foreignaffairs.com/political-power-social-media).
+
+3. Killian Clarke and Korhan Kocak, "Launching Revolution: Social Media and the Egyptian Uprising’s First Movers," *British Journal of Political Science* 50, no. 3 (2020): 1026, [https://doi.org/10.1017/S0007123418000194](https://doi.org/10.1017/S0007123418000194).
+
+4. Chris Lunday and Nette Nöstlinger, "Merz and Scholz Clash on Migration, Economy and Trump: 'How Dumb Can Somebody Be?'" *Politico*, February 9, 2025, [https://www.politico.eu/article/germany-elections-olaf-scholz-friedrich-merz-migration](https://www.politico.eu/article/germany-elections-olaf-scholz-friedrich-merz-migration).
