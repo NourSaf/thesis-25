@@ -2,12 +2,12 @@
 
 ## Shaping the political lanscape through social media. Case study: Germany's Far-Right Movement on Social Media. 
 
-### Abstract
+## Abstract
 
 As of October 2024, 94% of internet users, representing 64% of the global population. Social media platforms have become dominant news sources, shaping users' perception of reality, political attitudes, and even real-world behaviours. The interactions are not organic. They are systematically designed algorithms that control visibility, engagement, and discourse, creating echo chambers that reinforce confirmation bias and facilitate the viral spread of misinformation. The ability of social media to amplify political movements, shape narratives, and influence elections is especially critical in Germany, where the far-right Alternative für Deutschland (AfD) has strategically used digital platforms to gain influence.  As of January 2024, Germany had approximately 77.7 million internet users, accounting for 93.3% of the total population. Among these, 67.8 million were active on social media platforms, representing 81.4% of the population. 100% of German adults under 40 are online, 79% of them use social media, which makes social media a good place to start a political campaign. This research investigates how the AfD leverages social media networks and algorithmic amplification to spread far-right ideologies.  Using data-driven research and data visualization tools, this project aims to reveal the digital infrastructure of far-right mobilization in Germany, demonstrating how social media’s algorithmic logic is not just a passive tool but an active agent of political transformation.
 ---
 
-### Outline
+## Outline
 1. A brief history of social media
 2. The intersection between social media and real world
 3. How did politcs and social media started to be part of each other?
@@ -30,7 +30,7 @@ As of October 2024, 94% of internet users, representing 64% of the global popula
 11. Conclusion and recomendation 
 ---
 
-### Intorduction 
+## Intorduction 
 Media—whether written, printed, or voice-recorded—has long been a tool for spreading new ideas, perspectives, and ideologies. During World War II, broadcasting played a central role. In the U.S., for example, 90% of households owned radios, which allowed the government to use direct communication tactics, such as the "you technique," to connect with the public and make them feel involved in the war effort. Meanwhile, Nazi Germany broadcasted propaganda for up to 11 hours daily, targeting groups like capitalists, Jews, and certain media outlets and politicians.^1
 
 Media's role in driving change has not been limited to government actions throughout history. In 2001, approximately seven million text messages with the message “Go 2 EDSA. Wear Black” were sent via cell phones, which played a crucial role in the ousting of Philippine President Joseph Estrada.^2 This movement showed how mobile technology could mobilize the public and bring about political change. This event marked the first large-scale civilian movement organized via social media, highlighting its potential as a political tool that reshapes political landscapes and holds power to account. Social media enables faster connections, news exchange, and organization. Inspired by the Philippine movement, similar frameworks were adopted worldwide. Ten years later, the rapid development and accessibility of communication tools led to the 2011 Egyptian protests, where Facebook and Twitter played pivotal roles in sparking a revolution that continues to impact Egypt's political landscape.^3
