@@ -40,6 +40,34 @@ In this paper, we explore the following questions: How is the right-wing party, 
 
 
 
+
+## Sketches
+### Webpage Structure 
+The main Idea is to have as little pages as possible to the user stays engaged wiht the analysis. 
+Therefore, there is only three pages.
+1. Landing page with intial information about the project and introductory visualization. 
+2. Analysis page: contains in deepth analysis of the subject matter.
+3. About page, having informtion about the project credits and data sources and methodologies. 
+![Ideas (1)](https://github.com/user-attachments/assets/598a568c-41a1-4af7-ad92-abd69cee1670)
+
+### Landing page
+Here and for now, there is two ideas: 
+1. Steam-graph: visualizing the history of the AfD and information about popularity over time.
+2. A map and time line: showing, when and where did the AfD started. Over time, how is the number of votes is changing, where are they getting popular.
+3. Potentialy: informaiton about ages of groups. 
+![Landing Page](https://github.com/user-attachments/assets/932113fc-6bb4-4ab5-92f3-9927cc853d37)
+
+### In depth analysis page
+This is the main analysis page, it includes: 
+1. Posts/Videos/speech analysis of Alice Weidel the co-chairwoman of the far-right party AfD in Germany and the party's lead candidat.
+2. Barcharts group descriping in percent the topics she speaks about.
+3. Drop down menu to chose between Alice Weidel the first person and the second top person in the Party.
+4. A switcher to chose between seeing a visual abstracion of the analysis or to see the original scripted speech.
+The main goal of this page to make the user engaged in the story and explore with drop down and filter options
+![Ideas](https://github.com/user-attachments/assets/8c0676d7-b12d-4119-bf0c-18e9b80e6bbd)
+
+
+
 ---
 ## References
 
