@@ -48,7 +48,8 @@ Therefore, there is only three pages.
 1. Landing page with intial information about the project and introductory visualization. 
 2. Analysis page: contains in deepth analysis of the subject matter.
 3. About page, having informtion about the project credits and data sources and methodologies. 
-![Ideas (1)](https://github.com/user-attachments/assets/598a568c-41a1-4af7-ad92-abd69cee1670)
+![Screenshot 2025-02-27 at 11 36 26](https://github.com/user-attachments/assets/1b9fe273-1513-4d4f-b001-cdbbdedb5380)
+
 
 ### Landing page
 Here and for now, there is two ideas: 
