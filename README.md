@@ -67,6 +67,10 @@ This is the main analysis page, it includes:
 The main goal of this page to make the user engaged in the story and explore with drop down and filter options
 ![Ideas](https://github.com/user-attachments/assets/8c0676d7-b12d-4119-bf0c-18e9b80e6bbd)
 
+### Video analysis
+![Components](https://github.com/user-attachments/assets/058f22c4-d1ea-4205-b767-d92901586582)
+
+
 
 
 ---
