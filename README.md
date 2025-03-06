@@ -1,12 +1,27 @@
 # Thesis-25
 
 ## Is it the Right way?
-![Cover](https://github.com/user-attachments/assets/bd6900b9-0af3-4118-9eb3-a7a99c64f6d7)
-
+![Cover (2)](https://github.com/user-attachments/assets/4c261192-aad4-4450-aca9-f66f5369f4bc)
 
 
 ## Abstract
-As of October 2024, 94% of internet users, representing 64% of the global population. Social media platforms have become dominant news sources, shaping users' perception of reality, political attitudes, and even real-world behaviours. The interactions are not organic. They are systematically designed algorithms that control visibility, engagement, and discourse, creating echo chambers that reinforce confirmation bias and facilitate the viral spread of misinformation. The ability of social media to amplify political movements, shape narratives, and influence elections is especially critical in Germany, where the far-right Alternative für Deutschland (AfD) has strategically used digital platforms to gain influence. As of January 2024, Germany had approximately 77.7 million internet users, accounting for 93.3% of the total population. Among these, 67.8 million were active on social media platforms, representing 81.4% of the population. 100% of German adults under 40 are online, 79% of them use social media, which makes social media a good place to start a political campaign. This research investigates how the AfD leverages social media networks and algorithmic amplification to spread far-right ideologies. Using data-driven research and data visualization tools, this project aims to reveal the digital infrastructure of far-right mobilization in Germany, demonstrating how social media’s algorithmic logic is not just a passive tool but an active agent of political transformation.
+Since Germany’s unification in 1990, political divisions between the former East and West have persisted, with recent elections highlighting a resurgence of ideological fragmentation. The rise of the far-right Alternative for Germany (AfD), founded in 2013, has been particularly pronounced in eastern states, raising concerns about the country’s political trajectory. This thesis investigates how far-right rhetoric, specifically the speeches of AfD leader Alice Weidel, reinforces and deepens these divisions.
+
+Using Natural Language Processing (NLP) and topic classification models, this study analyzes Weidel’s speeches to identify recurring themes such as nationalism, anti-elite sentiment, and immigration. A predictive model is developed to assess whether other political parties are shifting towards right-wing populist discourse over time, estimating their likelihood of adopting similar rhetoric in future elections. The findings provide insights into whether Germany is moving toward increased polarization and explore potential interventions to counteract this trend. By combining computational text analysis, electoral data visualization, and predictive modeling, this research contributes to the broader discourse on the evolving landscape of German politics and the future of ideological alignment in Europe.
+
+## Introduction Page
+The introduction page will show a brief history of Germany's map. Before 1990, after 1990 and today, to highlight the probelm. 
+Addtionally, the page will show the raise of AfD party and the voters trend over time. 
+Finally, the page will present other factors that plays a role in the division we are seeing on the maps today. 
+![Introduction](https://github.com/user-attachments/assets/c6f36bca-6ef5-4378-9e26-5f5c69328c1a)
+
+## Analysis Page 
+In this page the user will be able to see the process of speech analysis and classification method for building the model understanding how Alice Weidl is addressing topics. 
+![Speech Analysis](https://github.com/user-attachments/assets/bacddb5b-7c0f-42e5-b016-dc41659b1b6a)
+
+## Model Page 
+User will be allowed to insert a text from a party and assesst the likelihood of shifting to be more right in the next election. 
+![Predictive](https://github.com/user-attachments/assets/a057ea36-6d96-4038-972b-0c9fd7e7a9ed)
 
 
 ## Outline
